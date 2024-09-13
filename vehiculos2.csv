@@ -1,0 +1,8 @@
+<class '__main__.Carga'>,"{'marca': 'Otto Krauss', 'modelo': 'Goliat', 'nro_ruedas': 6, 'velocidad': 150, 'cilindrada': 5000, 'tara': 4000}"
+<class '__main__.Particular'>,"{'marca': 'Datsun', 'modelo': '120Y', 'nro_ruedas': 4, 'velocidad': 160, 'cilindrada': 1200, 'pasajeros': 4}"
+<class '__main__.Motocicleta'>,"{'marca': 'Yamaha', 'modelo': 'Brum Brum', 'nro_ruedas': 2, 'tipo': 'Urbana', 'nro_radios': 21, 'cuadro': 'Cuadrado', 'motor': '4T'}"
+<class '__main__.Particular'>,"{'marca': 'Citroen', 'modelo': 'Xantia', 'nro_ruedas': 4, 'velocidad': 230, 'cilindrada': 1800, 'pasajeros': 5}"
+<class '__main__.Particular'>,"{'marca': 'Hyundai', 'modelo': 'Tucson', 'nro_ruedas': 4, 'velocidad': 240, 'cilindrada': 2000, 'pasajeros': 5}"
+<class '__main__.Carga'>,"{'marca': 'Foton', 'modelo': 'Camioncito', 'nro_ruedas': 6, 'velocidad': 230, 'cilindrada': 3500, 'tara': 3000}"
+<class '__main__.Particular'>,"{'marca': 'Toyota', 'modelo': 'Yaris', 'nro_ruedas': 4, 'velocidad': 230, 'cilindrada': 1300, 'pasajeros': 4}"
+<class '__main__.Bicicleta'>,"{'marca': 'Trek', 'modelo': '820', 'nro_ruedas': 2, 'tipo': 'Deportiva'}"
